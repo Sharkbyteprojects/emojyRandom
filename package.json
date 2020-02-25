@@ -1,0 +1,23 @@
+{
+  "name": "random-emoji",
+  "version": "1.0.0",
+  "description": "For Browser: Make an random emoji",
+  "main": "randomEmojy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharkbyteprojects/emojyRandom.git"
+  },
+  "keywords": [
+    "emoji",
+    "shark",
+    "fast",
+    "free",
+    "browser"
+  ],
+  "author": "Sharkbyteprojects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharkbyteprojects/emojyRandom/issues"
+  },
+  "homepage": "https://github.com/Sharkbyteprojects/emojyRandom#readme"
+}
