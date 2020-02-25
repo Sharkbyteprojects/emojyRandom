@@ -1,5 +1,5 @@
 {
-  "name": "random-emoji",
+  "name": "random-emoji-sh",
   "version": "1.0.0",
   "description": "For Browser: Give an Script an random emoji",
   "main": "index.js",
